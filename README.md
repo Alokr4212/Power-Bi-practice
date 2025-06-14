@@ -10,3 +10,13 @@ Each `.pbix` file represents different visualizations and concepts practiced ste
 
 # Source:
 Learned from [YouTube tutorials] and followed step-by-step practice.
+
+
+
+## How to Use These Files
+
+To view these `.pbix` files:
+
+1. Click the filename above.
+2. Then click on the blue **“View raw”** link to download.
+3. Open the file using **Power BI Desktop**.
